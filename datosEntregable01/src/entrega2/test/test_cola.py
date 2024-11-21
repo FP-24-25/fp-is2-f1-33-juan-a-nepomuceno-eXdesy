@@ -1,7 +1,7 @@
 '''
 Created on 11 nov 2024
 
-@author: Fonix
+@author: Dilyorbek Mukhiddinov
 '''
 
 from src.entrega2.tipos.cola import Cola

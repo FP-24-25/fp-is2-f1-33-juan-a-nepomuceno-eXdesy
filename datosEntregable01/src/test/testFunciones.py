@@ -1,7 +1,7 @@
 '''
 Created on 20 oct 2024
 
-@author: Fonix
+@author: Dilyorbek Mukhiddinov
 '''
 
 import unittest

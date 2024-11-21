@@ -1,7 +1,7 @@
 '''
 Created on 24 oct 2024
 
-@author: Fonix
+@author: Dilyorbek Mukhiddinov
 '''
 
 import math
