@@ -5,7 +5,7 @@ Created on 20 oct 2024
 '''
 
 import unittest
-from src.funciones.funciones import *
+from src.entrega1.funciones import *
 
 class TestFunciones(unittest.TestCase):
 

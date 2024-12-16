@@ -5,7 +5,7 @@ Created on 20 oct 2024
 '''
 
 import unittest
-from src.lecturas.lecturas import *
+from src.entrega1.lecturas import *
 
 class TestLecturas(unittest.TestCase):
 
